@@ -1,0 +1,10 @@
+node_modules/
+.venv/
+.venv-local/
+venv_broken/
+__pycache__/
+dist/
+.env
+.env.local
+.DS_Store
+services/ai/data_cache/
